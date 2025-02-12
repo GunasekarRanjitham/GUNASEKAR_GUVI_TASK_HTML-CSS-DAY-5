@@ -1,0 +1,108 @@
+body{
+    background-color: #cad2c5;
+    border: 0px;
+}
+
+h2{
+    display: flex;
+    margin-left: 45vw;
+    margin-top: 10px;
+    margin-top: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: -80px;
+    z-index: 1;
+}
+
+.two{
+    display: flex;
+    margin-top: -103px;
+    margin-left: -600px;
+    height: 18vh;
+    width: 138.5vw;
+    background-color: #2f3d46;
+}
+
+img{
+    display: inline-block;
+    margin-left: -8px;
+    margin-top: -8px;
+    width: 130px;
+    height: 130px;
+}
+
+div.three{
+    display: inline-flex;
+    padding: 5%;
+    height: 40vh;
+    width: 13vw;
+    border-radius: 10px;
+    margin-top: -440px;
+    margin-left: 30px;
+    background-color: #353535;
+}
+
+input{
+    background-color: #353535;
+    border-radius: 7px;
+    width: 31vw;
+    height: 40px;
+    font-size: 22px;
+    margin-top: 30px;
+    margin-left: 630px;
+    padding-left: 15px;
+}
+
+.five{
+    display: inline-flex;
+    border-radius: 10px;
+    margin-top: 80px;
+    padding: 2%;
+    padding-right: 20px;
+    margin-left: 200px ;
+    background-color: #353535;
+    width: 10vw;
+    height: 10vh;  
+}
+
+.six{
+    display: inline-flex;
+    border-radius: 10px;
+    margin-top: 80px;
+    padding: 2%;
+    padding-left:10px;
+    margin-left: 50px ;
+    background-color: #353535;
+    width: 10vw;
+    height: 10vh;
+}
+
+.seven{
+    display: inline-flex;
+    border-radius: 10px;
+    margin-top: 80px;
+    padding: 2%;
+    padding-left:10px;
+    margin-left: 50px ;
+    background-color: #353535;
+    width: 10vw;
+    height: 10vh;
+}
+
+
+.eight{
+    background-color: #353535;
+    height: 10vh;
+    padding: 2%;
+    width: 42vw;
+    border-radius: 10px;
+    margin-left: 198px;
+    margin-top: 50px;
+}
+
+@media only screen and(max-width:1600){
+    body{
+        display: 72%;
+        width: 72%;
+    }
+}
